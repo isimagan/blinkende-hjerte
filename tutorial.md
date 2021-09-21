@@ -8,7 +8,7 @@ Vi skal animere et hjerte som skal blinke 10 ganger når den er ferdig.
 ## Steg 1
 Når vi skal animere et hjerte kan vi ikke bruke hjerte-ikonet du finner på ``||basic:vis ikon||``.
 
-Vi må lage det selv, og vi skal bruke ``||basic:vis skjerm||``. Alt dette skal vi sette inn i ``||basic:gjenta for alltid||``.
+Det må vi lage selv, og vi skal bruke ``||basic:vis skjerm||``. Alt dette skal vi sette inn i ``||basic:gjenta for alltid||``.
 
 ![Ikke vis ikon](https://isimagan.github.io/blinkende-hjerte/visIkon.jpg)
 ``` blocks

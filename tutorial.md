@@ -355,3 +355,5 @@ Når du har trykket på **Slutt** tar du skjermbilde og limer inn i BookCreator.
 Vil du ha den over til micro:biten? Husker du hvordan? Hvis ikke så kan du se på Showbie hvordan det gjøres.
 
 Trykk på **Slutt**.
+
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("https://makecode.microbit.org/", "isimagan/blinkende-hjerte");</script>

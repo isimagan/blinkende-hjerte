@@ -3,13 +3,14 @@
 ## Intro @showdialog
 Vi skal animere et hjerte som skal blinke 10 ganger når den er ferdig.
 
-![Hjerte](hjerte.png)
+![Hjerte](https://isimagan.github.io/blinkende-hjerte/hjerte.png)
 
 ## Steg 1
 Når vi skal animere et hjerte kan vi ikke bruke hjerte-ikonet du finner på ``||basic:vis ikon||``.
 
 Vi må lage det selv, og vi skal bruke ``||basic:vis skjerm||``. Alt dette skal vi sette inn i ``||basic:gjenta for alltid||``.
 
+![Ikke vis ikon](https://isimagan.github.io/blinkende-hjerte/visIkon.jpg)
 ``` blocks
 basic.forever(function(){})
 ```
@@ -234,7 +235,7 @@ basic.forever(function () {
 ## Steg 8
 Så må vi tømme skjermen. Før vi gjør det må vi vente litt så hjertet ikke forsvinner med en gang.
 1. Sett inn ``||basic:pause (ms) 100||``, og endre ``100``-tallet til ``200`` eller ``500``.
-2. Sett inn ``||basic:tøm skjerm||``
+2. Sett inn ``||basic:tøm skjermen||``
 3. Sett inn en ny ``||basic:pause||``, like lang som den forrige.
 
 ``` blocks

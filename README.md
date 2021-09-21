@@ -1,6 +1,7 @@
 
 > Åpne denne siden på [https://isimagan.github.io/blinkende-hjerte/](https://isimagan.github.io/blinkende-hjerte/)
 
+**Øvelse:** [https://makecode.microbit.org/#tutorial:github:isimagan/blinkende-hjerte/tutorial](https://makecode.microbit.org/#tutorial:github:isimagan/blinkende-hjerte/tutorial)
 ## Bruk som utvidelse
 
 Dette kodeområdet kan bli lagt til som en **utvidelse** i MakeCode.

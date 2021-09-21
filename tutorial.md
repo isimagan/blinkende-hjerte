@@ -3,6 +3,8 @@
 ## Intro @showdialog
 Vi skal animere et hjerte som skal blinke 10 ganger når den er ferdig.
 
+![Hjerte](Hjerte.png)
+
 ## Steg 1
 Når vi skal animere et hjerte kan vi ikke bruke hjerte-ikonet du finner på ``||basic:vis ikon||``.
 
